@@ -28,3 +28,53 @@ My long-term goal is to contribute to disease mechanism discovery and precision 
 - Network Biology
 - Multi-Omics Integration
 - Precision Medicine
+
+## Technical Skills
+
+### Programming
+
+- R
+- Git
+- GitHub
+
+### Bioinformatics
+
+- DESeq2
+- limma
+- edgeR
+- clusterProfiler
+
+### Systems Biology
+
+- Cytoscape
+- STRING
+- CytoHubba
+- Gephi
+
+### Visualization
+
+- ggplot2
+- ComplexHeatmap
+- EnhancedVolcano
+
+## Current Portfolio Projects
+
+- Bulk RNA-Seq Analysis
+- Microarray Analysis
+- Single-Cell RNA-Seq Analysis
+- Systems Biology Workflows
+- Multi-Omics Integration
+
+## 2026 Learning Goals
+
+- Build reproducible RNA-Seq workflows
+- Develop advanced single-cell analysis skills
+- Learn multi-omics integration strategies
+- Improve network biology expertise
+- Contribute to open science projects
+
+## Contact
+
+📧 Email: sinahabibi1377@gmail.com
+
+💻 GitHub: https://github.com/Sina-Habibi
