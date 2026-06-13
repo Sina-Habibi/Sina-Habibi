@@ -17,3 +17,14 @@ My research interests include transcriptomics, RNA-Seq analysis, single-cell gen
 I primarily use R for data analysis, visualization, and reproducible bioinformatics workflows.
 
 My long-term goal is to contribute to disease mechanism discovery and precision medicine through computational approaches.
+
+## Research Interests
+
+- Transcriptomics
+- RNA-Seq Analysis
+- Microarray Data Analysis
+- Single-Cell RNA-Seq
+- Systems Biology
+- Network Biology
+- Multi-Omics Integration
+- Precision Medicine
